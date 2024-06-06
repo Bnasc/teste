@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393416837962",
+    "project_id": "comercio-4be09",
+    "storage_bucket": "comercio-4be09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393416837962:android:be42f66cdafd63e3cf4fb3",
+        "android_client_info": {
+          "package_name": "com.example.aaaaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXOjz3iHG8uNeB0C9mmlkoF1XhjLpQwtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
